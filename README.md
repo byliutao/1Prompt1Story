@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<a href="http://59.110.93.62:7089/" style="display: inline-block;">
+<!-- <a href="http://59.110.93.62:7089/" style="display: inline-block;">
     <img src="./resource/gradio.svg" alt="demo" style="height: 20px; vertical-align: middle;">
-</a>&nbsp;
+</a>&nbsp; -->
 <a href="https://arxiv.org/abs/2501.13554" style="display: inline-block;">
     <img src="https://img.shields.io/badge/arXiv%20paper-2406.06525-b31b1b.svg" alt="arXiv" style="height: 20px; vertical-align: middle;">
 </a>&nbsp;
@@ -36,7 +36,6 @@
 * Gradio Code: app.py 
 * Benchmark Generation Code: resource/gen_benchmark.py
 * Consistory+ Benchmark: [link](./resource/consistory+.yaml)
-* Online Gradio demo: [link](http://59.110.93.62:7089/)
 * 🚩[Chinese Version Paper (new)](https://www.overleaf.com/read/pxyhqpsccfjk#20922a)
 * 🚩[Jittor Version (new)](https://github.com/byliutao/1Prompt1Story/tree/main/jittor_version)
 
